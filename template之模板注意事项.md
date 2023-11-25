@@ -84,7 +84,7 @@ template<class T>
 class tmp
 {
 	public:
-		static T t;
+		static T t;	//静态
 };
 
 template<class T>
